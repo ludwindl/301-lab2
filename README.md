@@ -10,7 +10,7 @@ Finish time: _11:20 AM____
 
 Actual time needed to complete: __2 hours and 20 min___
 
-
+<br></br>
 
 Number and name of feature: _________Feature #2 Filter Images._______________________
 
