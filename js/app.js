@@ -50,10 +50,6 @@ Horns.useFilters = () => {
   
 }
 
-
-
-
-
 Horns.loadHorns = () => {
   Horns.allHorns.forEach(horn => horn.render());
 };
